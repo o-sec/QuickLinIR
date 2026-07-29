@@ -315,7 +315,7 @@ sudo quicklinir.py --services --kernelmodules
 ---
 ## Disclaimer
 
-QuickLinIR is intended for **authorized security auditing, defensive security, incident response, digital investigation
+QuickLinIR is intended for authorized security auditing, defensive security, incident response, digital investigation
 
 Only use QuickLinIR on systems that you own or have explicit authorization to inspect.
 
