@@ -305,7 +305,7 @@ sudo quicklinir.py --services --kernelmodules
 
 ## Quick Demo Video
 
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=p0LYlQymmbY)
+[![Watch the video](https://img.youtube.com/vi/p0LYlQymmbY/0.jpg)](https://www.youtube.com/watch?v=p0LYlQymmbY)
 
 
 
